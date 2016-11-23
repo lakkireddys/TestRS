@@ -2,6 +2,6 @@
  memory: 256M
  instances: 1
  domain: eu-gb.mybluemix.net
- name: TestRS
- host: TestRS
+ name: testrs
+ host: testrs
  disk_quota: 512M
