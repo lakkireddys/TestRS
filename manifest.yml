@@ -1,4 +1,4 @@
- path: target/TestRest-0.0.1-SNAPSHOT.war
+ path: target/testrs-0.0.1-SNAPSHOT.war
  memory: 256M
  instances: 1
  domain: eu-gb.mybluemix.net
